@@ -1,0 +1,15 @@
+.value-display input {
+    width: 276px;
+    outline: none;
+    border: none;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 3rem;
+    text-align: right;
+   
+   
+}
+
+.value-display {
+     display: flex;
+    justify-content: center;
+}
